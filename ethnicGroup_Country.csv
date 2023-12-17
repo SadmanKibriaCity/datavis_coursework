@@ -1,5 +1,4 @@
 code,category,value,areaName
-E92000001,N/A,0,England
 E92000001,ABBangladeshi,629567,England
 E92000001,ABChinese,431165,England
 E92000001,ABIndian,1843248,England
@@ -19,7 +18,6 @@ E92000001,wRoma,99138,England
 E92000001,wOther,3585003,England
 E92000001,arab,320203,England
 E92000001,other,908950,England
-W92000004,N/A,0,Wales
 W92000004,ABBangladeshi,15314,Wales
 W92000004,ABChinese,14454,Wales
 W92000004,ABIndian,21070,Wales
